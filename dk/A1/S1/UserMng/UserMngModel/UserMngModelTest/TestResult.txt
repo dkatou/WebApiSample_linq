@@ -1,0 +1,30 @@
+Executing: C:\Program Files\dotnet\dotnet.exe
+D:\dotnetProjects\WebApiSample_linq\dk\A1\S1\UserMng\UserMngModel\UserMngModelTest\bin\Debug\netcoreapp3.1\UserMngModelTest.dll(.NETCoreApp,Version=v3.1) のテスト実行
+Microsoft (R) Test Execution Command Line Tool Version 16.3.0
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+テスト実行を開始しています。お待ちください...
+
+合計 1 個のテスト ファイルが指定されたパターンと一致しました。
+D:\dotnetProjects\WebApiSample_linq\dk\A1\S1\UserMng\UserMngModel\UserMngModelTest\bin\Debug\netcoreapp3.1\UserMngModelTest.dll
+[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.0 (64-bit .NET Core 3.1.0)
+[xUnit.net 00:00:16.95]   Discovering: UserMngModelTest
+[xUnit.net 00:00:17.11]   Discovered:  UserMngModelTest
+[xUnit.net 00:00:17.13]   Starting:    UserMngModelTest
+[xUnit.net 00:00:17.63]   Finished:    UserMngModelTest
+  √ dk.A1.S1.UserMng.UserMngModelTest.Tests.UserMstTest.UserIdTest [9ms]
+  √ dk.A1.S1.UserMng.UserMngModelTest.Tests.UserMngContextTest.UserMngContextTest01 [288ms]
+
+テストの実行に成功しました。
+テストの合計数: 2
+     成功: 2
+合計時間: 19.3350 秒
+Committing...
+Visited Classes 287 of 793 (36.19)
+Visited Methods 1134 of 3992 (28.41)
+Visited Points 3331 of 14751 (22.58)
+Visited Branches 2021 of 10500 (19.25)
+
+==== Alternative Results (includes all methods including those without corresponding source) ====
+Alternative Visited Classes 287 of 828 (34.66)
+Alternative Visited Methods 1134 of 4669 (24.29)
